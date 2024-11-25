@@ -1,0 +1,4 @@
+C:/Program Files/Git/calculator_project/CMakeFiles/calculator.dir
+C:/Program Files/Git/calculator_project/CMakeFiles/main.dir
+C:/Program Files/Git/calculator_project/CMakeFiles/edit_cache.dir
+C:/Program Files/Git/calculator_project/CMakeFiles/rebuild_cache.dir
